@@ -48,3 +48,4 @@ app.listen(PORT, () => {
 });
 
 console.log("MongoDB URI:", process.env.MONGO_URI); // Optional: for debugging purposes
+console.log("Happy phase 3 turn in");
